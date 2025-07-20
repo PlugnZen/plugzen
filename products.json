@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Tomada Inteligente Wi-Fi Alexa",
+    "description": "Automatize qualquer aparelho com controle remoto por app.",
+    "price": 149.9,
+    "cost": 75.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B0CF7WT9JD?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Tomada+WiFi",
+    "profit_before_tax": 74.9,
+    "profit_after_tax": 57.67
+  },
+  {
+    "name": "Interruptor Touch Wi-Fi 3 Botões",
+    "description": "Controle luzes pelo app, toque suave e design moderno.",
+    "price": 179.9,
+    "cost": 82.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B08LVR8QMV?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Interruptor+WiFi",
+    "profit_before_tax": 97.9,
+    "profit_after_tax": 75.38
+  },
+  {
+    "name": "Sensor de Movimento Inteligente Zigbee",
+    "description": "Acione dispositivos com detecção automática.",
+    "price": 99.9,
+    "cost": 41.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09ND9ZPQS?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Sensor+Zigbee",
+    "profit_before_tax": 58.9,
+    "profit_after_tax": 45.35
+  },
+  {
+    "name": "Lâmpada LED Inteligente RGB",
+    "description": "Controle cores, brilho e timer via app.",
+    "price": 79.9,
+    "cost": 29.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B08HJTT6ZD?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Lampada+RGB",
+    "profit_before_tax": 50.9,
+    "profit_after_tax": 39.19
+  },
+  {
+    "name": "Fechadura Digital Biométrica Wi-Fi",
+    "description": "Segurança e tecnologia em uma única porta.",
+    "price": 599.9,
+    "cost": 289.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09V13KR9J?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Fechadura+Digital",
+    "profit_before_tax": 310.9,
+    "profit_after_tax": 239.39
+  },
+  {
+    "name": "Câmera de Segurança Wi-Fi Full HD",
+    "description": "Monitoramento com detecção de movimento e app.",
+    "price": 239.9,
+    "cost": 97.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B082XK6FMY?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Camera+WiFi",
+    "profit_before_tax": 142.9,
+    "profit_after_tax": 110.03
+  },
+  {
+    "name": "Robô Aspirador Inteligente com Mapeamento",
+    "description": "Limpeza automática e eficiente com app e Alexa.",
+    "price": 1399.9,
+    "cost": 739.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B09R2V79XP?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Robo+Aspirador",
+    "profit_before_tax": 660.9,
+    "profit_after_tax": 508.89
+  },
+  {
+    "name": "Organizador Minimalista de Cabos Magnético",
+    "description": "Ideal para manter a mesa limpa e sem fios soltos.",
+    "price": 49.9,
+    "cost": 11.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B07TLBYL3F?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Organizador+Cabos",
+    "profit_before_tax": 38.9,
+    "profit_after_tax": 29.95
+  },
+  {
+    "name": "Cortina Elétrica Inteligente Alexa",
+    "description": "Automatize a abertura e fechamento com controle de voz.",
+    "price": 499.9,
+    "cost": 199.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B08P5CSLQ5?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Cortina+Inteligente",
+    "profit_before_tax": 300.9,
+    "profit_after_tax": 231.69
+  },
+  {
+    "name": "Painel de LED Minimalista de Parede",
+    "description": "Design moderno e iluminação eficiente para qualquer ambiente.",
+    "price": 219.9,
+    "cost": 92.0,
+    "tax_rate": 0.23,
+    "affiliate_url": "https://www.amazon.com.br/dp/B08P4YQQ5F?tag=plugzen-20",
+    "image": "https://via.placeholder.com/300x200?text=Painel+LED",
+    "profit_before_tax": 127.9,
+    "profit_after_tax": 98.48
+  }
+]
